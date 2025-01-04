@@ -25,4 +25,9 @@ git init
 7. Добавить файлы в гит
 8. Закоммитить изменения
 9. Запушить изменения в гитхаб
+
+
+Настройка Гита - имя и email (потребуются 1 раз)
+git config --global user.name "name"
+git config --global user.email "email"
 """
